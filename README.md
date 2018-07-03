@@ -1,3 +1,3 @@
 # hello-world
-Just learning. \n
+Just learning. 
 Yep. That's it.
